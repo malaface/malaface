@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Luis%20Miguel%20Malacara&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Ingeniero%20Electromec%C3%A1nico%20%7C%20Desarrollador%20Web%20%7C%20Automatizaciones&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Construyendo+soluciones+digitales+desde+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;Automatizando+procesos+con+IA+y+n8n;De+los+circuitos+al+c%C3%B3digo)](https://github.com/malaface)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Soluciones+digitales+desde+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;Automatizaci%C3%B3n+con+IA+y+n8n+%E2%9A%99%EF%B8%8F;De+los+circuitos+al+c%C3%B3digo+%F0%9F%92%A1)](https://github.com/malaface)
 
 </div>
 
@@ -156,9 +156,11 @@ Servidor de automatizaciones local integrado con tunnels de Cloudflare para expo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=malaface&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb&include_all_commits=true&count_private=true&locale=es" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malaface&theme=github_dark" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaface&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&locale=es" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malaface&theme=github_dark" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malaface&theme=github_dark" height="180"/>
 
 </div>
 
@@ -167,6 +169,14 @@ Servidor de automatizaciones local integrado con tunnels de Cloudflare para expo
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=malaface&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&locale=es" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malaface&theme=github_dark" width="95%"/>
 
 </div>
 
