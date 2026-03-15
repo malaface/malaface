@@ -21,3 +21,18 @@ jobs:
           USERNAME: malaface
           BRANCH_NAME: profile-summary-cards
           UTC_OFFSET: -6
+          AUTO_PUSH: "false"
+
+      - name: Push to profile-summary-cards branch
+        run: |
+          cd profile-summary-card-output
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Update profile summary cards"
+          git branch -M profile-summary-cards
+          git remote add origin https://x-access-token:${GITHUB_TOKEN}@github.com/malaface/malaface.git
+          git push -u origin profile-summary-cards --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
