@@ -156,11 +156,11 @@ Servidor de automatizaciones local integrado con tunnels de Cloudflare para expo
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malaface&theme=github_dark" height="180"/>
+<img src="https://raw.githubusercontent.com/malaface/malaface/profile-summary-cards/profile-summary-card-output/github_dark/0-profile-details.svg" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malaface&theme=github_dark" height="180"/>
+<img src="https://raw.githubusercontent.com/malaface/malaface/profile-summary-cards/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=malaface&theme=github_dark" height="180"/>
+<img src="https://raw.githubusercontent.com/malaface/malaface/profile-summary-cards/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180"/>
 
 </div>
 
@@ -176,7 +176,9 @@ Servidor de automatizaciones local integrado con tunnels de Cloudflare para expo
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malaface&theme=github_dark" width="95%"/>
+<img src="https://raw.githubusercontent.com/malaface/malaface/profile-summary-cards/profile-summary-card-output/github_dark/4-productive-time.svg" height="180"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/malaface/malaface/profile-summary-cards/profile-summary-card-output/github_dark/3-stats.svg" height="180"/>
 
 </div>
 
